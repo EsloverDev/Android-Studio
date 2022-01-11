@@ -16,7 +16,7 @@ _Aplicación movil para Android de una panadería ficticia desarrollada con la i
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Jonnathan Alexander Beltran Aponte  ** - *Trabajo Inicial* - [none](none)
-* **Edwin Eslover Romero Fonseca  ** - *Trabajo Inicial* - [26Eslover26](https://github.com/26Eslover26)
+* **Edwin Eslover Romero Fonseca  ** - *Trabajo Inicial* - [EsloverDev](https://github.com/EsloverDev)
 * **Javi Johan Rodríguez Giraldo  ** - *Trabajo Inicial* - [Bimbitor](https://github.com/Bimbitor)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/26Eslover26/repositorio_panaderia/graphs/contributors) quíenes han participado en este proyecto. 
