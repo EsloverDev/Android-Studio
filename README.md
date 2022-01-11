@@ -1,10 +1,10 @@
-# Peter Pan
+# Android-Studio
 
 _Aplicación movil para Android de una panadería ficticia desarrollada con la intención de practicar y entender el desarrollo movil_
 
 ## Crea una copia 🚀
   
- $ git clone https://github.com/26Eslover26/repositorio_panaderia.git
+ $ git clone https://github.com/EsloverDev/Android-Studio.git
   
 ## Construido con 🛠️
 
@@ -22,6 +22,4 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/26Eslover26/repositorio_panaderia/graphs/contributors) quíenes han participado en este proyecto. 
 
 ---
-⌨️ con ❤️ por [Bimbitor](https://github.com/Bimbitor) 😊
-# Android-Studio
-Aplicación móvil para Android de una panadería ficticia desarrollada con la intención de practicar y entender el desarrollo movil
+⌨️ con ❤️ por [EsloverDev](https://github.com/EsloverDev) 😊
